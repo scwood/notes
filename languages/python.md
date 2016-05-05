@@ -1,10 +1,6 @@
 Python
 ======
 
-Standard library
-----------------
-
-
 Snippets
 --------
 
