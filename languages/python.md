@@ -28,11 +28,11 @@ while True:
 Generate random CSV:
 
 ```python
-def generate_csv(header, num_rows):
-    rows = [header]
+def generate_csv(num_rows, num_columns):
+    rows = []
     for i in range(num_rows):
         row = []
-        for i in range(len(header)):
+        for i in range(num_columns):
             row.append(''.join([choice(letters) for n in range(10)]))
         rows.append(row)
     return '\n'.join(','.join(row) for row in rows)
