@@ -24,3 +24,16 @@ while True:
     except ValueError:
         print "Invalid number"
 ```
+
+Generate random CSV:
+
+```python
+def generate_csv(header, num_rows):
+    rows = [header]
+    for i in range(num_rows):
+        row = []
+        for i in range(len(header)):
+            row.append(''.join([choice(letters) for n in range(10)]))
+        rows.append(row)
+    return '\n'.join(','.join(row) for row in rows)
+```
