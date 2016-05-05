@@ -4,15 +4,16 @@ Python
 Standard library
 ----------------
 
+
+Snippets
+--------
+
 Get a string representation of a timestamp given certain formatters:
 
 ```python
 from time import strftime
 now = strftime('%Y-%m-%d')  # 2016-04-21
 ```
-
-Snippets
---------
 
 Validate type of input text:
 
@@ -28,6 +29,8 @@ while True:
 Generate random CSV:
 
 ```python
+from random import choice
+from string import letters
 def generate_csv(num_rows, num_columns):
     rows = []
     for i in range(num_rows):
