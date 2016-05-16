@@ -25,8 +25,8 @@ Heat griddle or skillet and spray LIGHTLY with cooking spray.
 Use a ladle to measure approximately 1/2 cup of batter onto hot griddle.
 Turn pancakes when tops are covered with bubbles and edges appear to be cooked.
 
-Syrup
------
+Maple Syrup
+-----------
 
 Ingredients:
 
