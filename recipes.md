@@ -27,3 +27,12 @@ Turn pancakes when tops are covered with bubbles and edges appear to be cooked.
 
 Syrup
 -----
+
+Ingredients:
+
+- 1 cup of water
+- 1 cup of white sugar
+- 1 cup of brown sugar
+- 1/2 tsp. of mapel flavored extract
+
+Bring water to a boil and add sugar until dissolved. Add maple flavored extract.
