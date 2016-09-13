@@ -53,7 +53,7 @@ People:
 - Sergius Paulus
 - Silas
 - Simon Magus
-  - Simony guy, simon the mage, tried to purchase the ability to give people the holy ghost
+  - Simony guy, simon the mage, tried to purchase the ability to give people the holy ghost, could prophesy of things
 - Simon Peter
 - Simon the tanner
 - Sosthenes
