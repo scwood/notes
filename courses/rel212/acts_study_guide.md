@@ -33,9 +33,11 @@ People:
 - Festus
 - Gallio
 - Herod Agrippa I
+  - Killed James
 - Herod Agrippa II
 - James the apostle
 - James the Lord’s brother
+  - First apostolic martyr
 - Jason
 - John the apostle
 - John Mark
@@ -49,6 +51,8 @@ People:
 - Philippian jailer
 - Priscilla
 - Saul/Paul
+  - Jew of Tarsus, but a citizen of Rome
+  - Speaks greek and aramaic
 - Sceva
 - Sergius Paulus
 - Silas
