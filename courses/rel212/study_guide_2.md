@@ -26,10 +26,18 @@ Review quizzes.
 - T/F In Colossians, Paul teaches that by Christ all things were created __T__
 - Name three things to which Hebrews shows that Jesus is superior. __Angels, Moses, Law of Moses, Levitical Priesthood/Aaronic__
 - In 1 Timothy, which two priesthood/church offices does Paul give lengthy directions regarding? __Bishops and Deacons__
+- Paul states that the woman “shall be saved in: __childbearing__.
+- What is one of the two specific examples of latter-time apostasy Paul mentions in 1 Timothy 4:3, AFTER “speaking lies in hypocrisy, having their conscience seared with a hot iron…” __forbidding to marry; abstain from meats__
+
+---
 
 Review audience and unique situations/reasons/tone for each epistle (first few slides of each power point). Review main topics discussed with each epistle. Use the information below to lead you to the correct information in the power point.
 
+---
+
 Romans—How do the Gentiles live the law of God? Abraham’s justification? What does Paul say about the advantage of being of the House of Israel? What does Paul say about human nature and why we sin?  Sources of God’s foreknowledge. Romans 8:14-17.
+
+---
 
 Acts 16-28—know the following people, incidents, and concepts—Timothy; Eutychus, Lydia, Felix, Festus, Herod Agrippa II, Paul’s beating at Philippi; Paul’s missionary pattern when going to a new city; Jesus’s agrapha; Paul and the incident at the temple in Jerusalem, Paul on trial before Sanhedrin; Paul’s appeal to Caesar and journey to Rome; “we” passages; Acts 24:5; Acts 26:28
 
