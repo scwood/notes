@@ -6,7 +6,7 @@ Be able to identify the following locations on the map. A section of map 1 will 
 
 ---
 
-Review quizzes.
+## Review quizzes.
 
 - A seller of purple, first person converted on Paul’s 2nd missionary journey: __Lydia__
 - In Athens, Paul preached a sermon about Jehovah basing it on an alter he saw inscribed to: __The Unknown God__
