@@ -53,15 +53,39 @@ What does Paul say about human nature and why we sin?
 
 Sources of God’s foreknowledge.
 
-> (1) God knows the future because of his omniscience. (This is a common Christian concept.) 
+> 1. God knows the future because of his omniscience. (This is a common Christian concept.) 
 >
-> (2) God knows us because we were with him in pre-mortality. (This is a unique, LDS concept.)
+> 2. God knows us because we were with him in pre-mortality. (This is a unique, LDS concept.)
 
 Romans 8:14-17.
 
-## Acts
+> 14. For as many as are led by the Spirit of God, they are the sons of God.
+> 
+> 15. For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father.
+> 
+> 16. The Spirit itself beareth witness with our spirit, that we are the children of God:
+> 
+> 17. And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.
 
-16-28—know the following people, incidents, and concepts—Timothy; Eutychus, Lydia, Felix, Festus, Herod Agrippa II, Paul’s beating at Philippi; Paul’s missionary pattern when going to a new city; Jesus’s agrapha; Paul and the incident at the temple in Jerusalem, Paul on trial before Sanhedrin; Paul’s appeal to Caesar and journey to Rome; “we” passages; Acts 24:5; Acts 26:28
+## Acts 16-28
+
+Know the following people, incidents, and concepts
+
+- __Timothy__: Paul's mission companion whom Paul had circumcised
+- __Eutychus__: boy who fell from a window while Paul was teaching; Paul embraced him and assured everyone that he wasn't dead
+- __Lydia__: seller of purple, first European Christian convert
+- __Felix__: Roman government official who hear's the case against Paul, detains him for two years, tries to bribe Paul?
+- __Festus__: Roman Governor of Judea, Paul had his final hearing before Festus 
+- __Herod Agrippa II__:
+- __Paul’s beating at Philippi__:
+- __Paul’s missionary pattern when going to a new city__:
+- __Jesus’s agrapha__:
+- __Paul and the incident at the temple in Jerusalem__:
+- __Paul on trial before Sanhedrin__:
+- __Paul’s appeal to Caesar and journey to Rome__:
+- __“we” passages__:
+- __Acts 24__:5:
+- __Acts 26__:28:
 
 ## Philemon
 
