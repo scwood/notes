@@ -4,8 +4,8 @@
 
 Be able to identify the following locations on the map. A section of map 1 will be used on the test. Maps 3-4 can help contextualize the locations: Troas, Philippi, Thessalonica, Corinth, Macedonia, Achaia, Athens, Ephesus, Rhodes, Laodicae, Colossae, Myra, Crete, Fair Havens, Melita, Syracuse, Rome, Italy.
 
-!(http://i.imgur.com/uwqr5D5.png)
-!(http://i.imgur.com/ejXFOFh.png)
+![map1](http://i.imgur.com/uwqr5D5.png)
+![map2](http://i.imgur.com/ejXFOFh.png)
 
 ## Review quizzes.
 
