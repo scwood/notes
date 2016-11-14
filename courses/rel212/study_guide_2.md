@@ -137,7 +137,7 @@ More of a stake or general letter.
 - emphasis upon unity: A & E were made from one flesh and commanded to cleave together
   - There is a difference in the way the priesthood works in the home as compared to the way it functions in the church, in the church there is clear line of authority, in the home it is a equal partnership with the husband equally yoked together.
 - armor of God: Ephesians 6:13-17
-- Ephesians 1:4-5: 
+- Ephesians 1:4-5: 4 According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love. 5 Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,
 
 ## 1-2 Timothy & Titus
 
@@ -167,5 +167,13 @@ The pastoral (keeping sheep) epistles. Personal letters to Timothy and Titus, no
   - Paul and others felt they were in the last days
 
 ---
+
+- Romans: who needs salvation and how do they get it
+- Acts: Paul's defense to authority
+- Ephesians: Holy spirit of promise, Unity, Armor of God 
+- Philemon: metaphor for the atonement
+- Collosians: Christ is the head and body of the church, all things were created in Christ
+- Phillipians: AoF 13, Bishops and Deacons
+- 1-2 Tim and Titus: Letters to shepards, Paul's last writing (Tim 2). Teachings on women, Latter days
 
 Epistle to the Hebrews will be included in the final exam
