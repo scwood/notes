@@ -33,7 +33,7 @@ Review audience and unique situations/reasons/tone for each epistle (first few s
 
 ## Romans
 
-"The foundation of Romans is an attempt to answer the question of who needs salvation and why they need it"
+> The foundation of Romans is an attempt to answer the question of who needs salvation and why they need it
 
 How do the Gentiles live the law of God?
 
@@ -45,7 +45,18 @@ Abraham’s justification?
 
 What does Paul say about the advantage of being of the House of Israel?
 
-What does Paul say about human nature and why we sin?  Sources of God’s foreknowledge. Romans 8:14-17.
+> chiefly, because that unto them were committed the oracles (i.e. words of God through revelation, prophets, or scripture) of God. 
+
+What does Paul say about human nature and why we sin?
+
+> We are in a fallen nature. All are fallen and are lost, and must perish except it be through the atonement which it is expedient should be made. Natural man is an enemy to God, and has been since Adam.
+
+Sources of God’s foreknowledge.
+
+> (1) God knows the future because of his omniscience. (This is a common Christian concept.) 
+> (2) God knows us because we were with him in pre-mortality. (This is a unique, LDS concept.)
+
+Romans 8:14-17.
 
 ## Acts
 
