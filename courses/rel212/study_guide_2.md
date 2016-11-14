@@ -89,16 +89,36 @@ Know the following people, incidents, and concepts
 
 ## Philemon
 
- Slavery in ancient world:
-Epistle of Philemon as allegory of plan of salvation, Redeemer, meaning of “Onesimus” 
+- Slavery in ancient world:
+  - legal under law of moses for 7 years, could become voluntary after time expired, numerous legal rites
+  - Roman slavery not based on race
+  - Master owned the labor and the salve, no crime to abuse or kill, but did not happen very often 
+- Epistle of Philemon as allegory of plan of salvation:
+  - Paul doesn't want to abolish slavery for Christians, Paul wants Philemon to receive back his slave Onesimus as a brother in the Gospel plan 
+  - Paul is like Christ, convices the father to take us back, we are like Onesimus, Philemon represents God
+- Redeemer: Go'el
+- meaning of “Onesimus”: literally means "profitable or useful (in latin)"
 
 ## Colossians
 
-“unknown” epistle and other interesting “tidbits”; Colossian Heresy: Jewish/Roman angels, Col. 1:15-19 
+- “unknown” epistle and other interesting “tidbits”:
+  - Unkown epistle to the Ladocieans
+  - Mentions Onesimus
+  - Mentions [John] Mark the newphew of Barnabus
+  - Mention of Luke, described as a physcian
+- Colossian Heresy: Jewish/Roman angels
+  - Collosians demonstrates the daanger of intellectual heresy-when the intellect trumps the spirit
+  - Worship of angels (Jewish archangels or pagan heroes) is bad
+- Col. 1:15-19
 
 ## Philippians
 
-Article of Faith 13; kenosis; ancient hymn & meaning; Paul’s background; early Church organization & hierarchy; Philippians 3:8
+- Article of Faith 13: Philippians 4:8
+- kenosis: "he emptied himself"
+- ancient hymn & meaning: Philip 2: Christ Jesus who being in the form of God thought it not robbery to be equal wiht God, but made himself of no repuation and took upon him the form of a servent
+- Paul’s background: Circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, an Hebrew of the Hebrews; as touching the law, a Pharisee
+- early Church organization & hierarchy: Bishops and Deacons 
+- Philippians 3:8: Yea doubtless, and I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the loss of all things, and do count them but dung, that I may win Christ,
 
 ## Ephesians
 
