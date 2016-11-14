@@ -33,7 +33,19 @@ Review audience and unique situations/reasons/tone for each epistle (first few s
 
 ## Romans
 
-How do the Gentiles live the law of God? Abraham’s justification? What does Paul say about the advantage of being of the House of Israel? What does Paul say about human nature and why we sin?  Sources of God’s foreknowledge. Romans 8:14-17.
+"The foundation of Romans is an attempt to answer the question of who needs salvation and why they need it"
+
+How do the Gentiles live the law of God?
+
+> For when the Gentiles, which have not the law, do by nature the things contained in the law, these having not the law, are a law unto themselves;  Which show the work of the law written in their hearts, their conscience also bearing witness
+
+Abraham’s justification? 
+
+> “Righteousness” = justification, God did NOT justify Abraham because he got circumcised. Circumcision was a sign of the justification God already gave Abraham because of faith.
+
+What does Paul say about the advantage of being of the House of Israel?
+
+What does Paul say about human nature and why we sin?  Sources of God’s foreknowledge. Romans 8:14-17.
 
 ## Acts
 
