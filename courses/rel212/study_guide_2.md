@@ -54,6 +54,7 @@ What does Paul say about human nature and why we sin?
 Sources of God’s foreknowledge.
 
 > (1) God knows the future because of his omniscience. (This is a common Christian concept.) 
+>
 > (2) God knows us because we were with him in pre-mortality. (This is a unique, LDS concept.)
 
 Romans 8:14-17.
