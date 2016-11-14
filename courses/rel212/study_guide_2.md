@@ -76,20 +76,21 @@ Know the following people, incidents, and concepts
 - __Lydia__: seller of purple, first European Christian convert
 - __Felix__: Roman government official who hear's the case against Paul, detains him for two years, tries to bribe Paul?
 - __Festus__: Roman Governor of Judea, Paul had his final hearing before Festus 
-- __Herod Agrippa II__:
-- __Paul’s beating at Philippi__:
-- __Paul’s missionary pattern when going to a new city__:
-- __Jesus’s agrapha__:
-- __Paul and the incident at the temple in Jerusalem__:
-- __Paul on trial before Sanhedrin__:
-- __Paul’s appeal to Caesar and journey to Rome__:
-- __“we” passages__:
-- __Acts 24__:5:
-- __Acts 26__:28:
+- __Herod Agrippa II__: King who hears Paul's defence, "almost thou persuadest to be a Christian", Paul appeals to Ceaser
+- __Paul’s beating at Philippi__: He was teaching them a lesson-he was a Roman citizen therefore it was illegal for them to beat him
+- __Paul’s missionary pattern when going to a new city__: (1) visit local synagogues to meet Jews, (2) visit local markets to meet Gentiles
+- __Jesus’s agrapha__: "sayings of jesus not written in the Gospels", "It is better to give than to receive" (not found in Gospels but Paul stresses to remember)
+- __Paul and the incident at the temple in Jerusalem__: Paul brings Greeks into the temple and therefore polluted the holy place, is arrested and imprisoned. Stands before the Sanhedrin
+- __Paul on trial before Sanhedrin__: distracts the Sanhedrin by sparking an argument about the ressurection of the dead
+- __Paul’s appeal to Caesar and journey to Rome__: shipwreck in Melita=Malta 
+- __“we” passages__: Luke was actually present for these events OR Luke was using the travel diary of an eyewitness as a source for these events
+- __Acts 24:5__: Two centers of Christiantity - Jerusalem: james head quarters, mostly jewish Christians, nickname Nazarenes "paul acused of sedition and being a ringleader of the Nazarenes"
+- __Acts 26:28__: "Agrippa said to Paul, almost thou persuadest me to be a christian"
 
 ## Philemon
 
-Slavery in ancient world, Epistle of Philemon as allegory of plan of salvation, Redeemer, meaning of “Onesimus” 
+ Slavery in ancient world:
+Epistle of Philemon as allegory of plan of salvation, Redeemer, meaning of “Onesimus” 
 
 ## Colossians
 
